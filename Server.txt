@@ -5,10 +5,16 @@
     "home_url": "https://tv.garden/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
-{
-    "pckg_id": "com.animehindidubbed.android",
+ {
+    "pckg_id": "com.animehindiworld.android",
     "base_domain": "animehindidubbed.in",
     "home_url": "https://animehindidubbed.in/",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+ {
+    "pckg_id": "com.animefrenzy.android",
+    "base_domain": "animefrenzy.cc",
+    "home_url": "https://animefrenzy.cc/home",
     "mega_domains": ["mega.nz", "mega.io"]
   },
   {
