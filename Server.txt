@@ -12,6 +12,12 @@
     "mega_domains": ["mega.nz", "mega.io"]
   },
  {
+    "pckg_id": "com.gogoanime.android",
+    "base_domain": "ww19.gogoanimes.fi",
+    "home_url": "https://ww19.gogoanimes.fi/",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+ {
     "pckg_id": "com.animefrenzy.android",
     "base_domain": "animefrenzy.cc",
     "home_url": "https://animefrenzy.cc/home",
