@@ -13,7 +13,7 @@
   },
  {
     "pckg_id": "com.gogoanime.android",
-    "base_domain": "ww19.gogoanimes.fi",
+    "base_domain": "gogoanimes.fi",
     "home_url": "https://ww19.gogoanimes.fi/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
