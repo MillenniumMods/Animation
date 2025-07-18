@@ -12,6 +12,12 @@
     "mega_domains": ["mega.nz", "mega.io"]
   },
  {
+    "pckg_id": "com.animahd.android",
+    "base_domain": "animahd.com",
+    "home_url": "https://animahd.com/",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+ {
     "pckg_id": "com.gogoanime.android",
     "base_domain": "gogoanimes.fi",
     "home_url": "https://ww19.gogoanimes.fi/",
