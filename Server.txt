@@ -2,7 +2,7 @@
   {
     "pckg_id": "com.tvgarden.android",
     "base_domain": "telegram.org",
-    "home_url": "https://telegram.me/MillenniumMods"]
+    "home_url": "https://millenniummods.github.io/SimplePage/"]
   },
  {
     "pckg_id": "com.animehindiworld.android",
