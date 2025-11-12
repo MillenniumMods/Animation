@@ -1,7 +1,7 @@
 [
   {
     "pckg_id": "com.tvgarden.android",
-    "base_domain": "telegram.org",
+    "base_domain": "github.com",
     "home_url": "https://millenniummods.github.io/SimplePage/"]
   },
  {
