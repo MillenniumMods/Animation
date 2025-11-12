@@ -2,8 +2,7 @@
   {
     "pckg_id": "com.tvgarden.android",
     "base_domain": "telegram.org",
-    "home_url": "https://t.me/+pS437kYKMsNjOTA0",
-    "mega_domains": ["mega.nz", "mega.io"]
+    "home_url": "https://t.me/+pS437kYKMsNjOTA0"]
   },
  {
     "pckg_id": "com.animehindiworld.android",
