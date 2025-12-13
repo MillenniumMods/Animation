@@ -1,80 +1,80 @@
 [
   {
     "pckg_id": "com.tvgarden.android",
-    "base_domain": "tv.garden",
-    "home_url": "https://tv.garden/",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
  {
     "pckg_id": "com.animehindiworld.android",
-    "base_domain": "animehindidubbed.in",
-    "home_url": "https://animehindidubbed.in/",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
  {
     "pckg_id": "com.animahd.android",
-    "base_domain": "animahd.com",
-    "home_url": "https://animahd.com/",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
  {
     "pckg_id": "com.gogoanime.android",
-    "base_domain": "gogoanimes.fi",
-    "home_url": "https://ww19.gogoanimes.fi/",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
  {
     "pckg_id": "com.animefrenzy.android",
-    "base_domain": "animefrenzy.cc",
-    "home_url": "https://animefrenzy.cc/home",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
   {
     "pckg_id": "com.animeworld.android",
-    "base_domain": "watchanimeworld.in",
-    "home_url": "https://watchanimeworld.in",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["mega.nz", "mega.io"]
  },
   {
     "pckg_id": "com.toonworld.android",
-    "base_domain": "toonworld4all.fun",
-    "home_url": "https://toonworld4all.fun/",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["pahe.bunniescdn.online"]
   },
   {
     "pckg_id": "tv.miruro.android",
-    "base_domain": "miruro.online",
-    "home_url": "https://www.miruro.online",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["pahe.win"]
   },
   {
     "pckg_id": "org.anime9.android",
-    "base_domain": "9anime.org.lv",
-    "home_url": "https://9anime.org.lv/",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["pahe.bunniescdn.online"]
   },
   {
     "pckg_id": "com.animesuge.android",
-    "base_domain": "animesugetv.se",
-    "home_url": "https://animesugetv.se/home",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["pahe.bunniescdn.online"]
   },
   {
     "pckg_id": "com.animedao.android",
-    "base_domain": "animedao9.top",
-    "home_url": "https://animedao9.top/",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["pahe.bunniescdn.online"]
   },
   {
     "pckg_id": "com.animedub.android",
-    "base_domain": "animedub.co",
-    "home_url": "https://animedub.co/home",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["dlx.techinmind.space"]
   },
   {
     "pckg_id": "com.animesalt.android",
-    "base_domain": "animesalt.cc",
-    "home_url": "https://animesalt.cc/",
+    "base_domain": "github.com",
+    "home_url": "https://millenniummods.github.io/SimplePage/",
     "mega_domains": ["mega.nz"]
   }
   
