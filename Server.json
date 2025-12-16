@@ -37,9 +37,9 @@
  },
   {
     "pckg_id": "com.toonworld.android",
-    "base_domain": "toonworld4all.fun",
-    "home_url": "https://toonworld4all.fun/",
-    "mega_domains": ["pahe.bunniescdn.online"]
+    "base_domain": "theaniplex.in",
+    "home_url": "https://theaniplex.in/",
+    "mega_domains": ["gofile.io"]
   },
   {
     "pckg_id": "tv.miruro.android",
@@ -75,6 +75,18 @@
     "pckg_id": "com.animesalt.android",
     "base_domain": "animesalt.cc",
     "home_url": "https://animesalt.cc/",
+    "mega_domains": ["mega.nz"]
+  },
+  {
+    "pckg_id": "com.animerulz.android",
+    "base_domain": "animerulzx.net",
+    "home_url": "https://animerulzx.net/home",
+    "mega_domains": ["dl.openx.xyz"]
+  },
+  {
+    "pckg_id": "com.hianime.android",
+    "base_domain": "hianime.com.cv",
+    "home_url": "https://hianime.com.cv/home",
     "mega_domains": ["mega.nz"]
   }
   
