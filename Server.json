@@ -88,7 +88,13 @@
     "base_domain": "hianime.com.cv",
     "home_url": "https://hianime.com.cv/home",
     "mega_domains": ["mega.nz"]
-  }
+  },
+  {
+    "pckg_id": "com.animeworld2.android",
+    "base_domain": "animeworld-india.me",
+    "home_url": "https://animeworld-india.me",
+    "mega_domains": ["archive.deadtoons.one", "mega.nz"]
+ }
   
   
 ]
