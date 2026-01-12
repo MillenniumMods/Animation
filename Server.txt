@@ -1,8 +1,8 @@
 [
   {
     "pckg_id": "com.tvgarden.android",
-    "base_domain": "github.com",
-    "home_url": "https://millenniummods.github.io/SimplePage/",
+    "base_domain": "tv.garden",
+    "home_url": "https://tv.garden/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
  {
