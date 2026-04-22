@@ -5,6 +5,12 @@
     "home_url": "https://famelack.com/",
     "mega_domains": ["mega.nz", "mega.io"]
   },
+  {
+    "pckg_id": "com.streamvault.android",
+    "base_domain": "cinefy.lol",
+    "home_url": "https://cinefy.lol",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
  {
     "pckg_id": "com.animehindiworld.android",
     "base_domain": "animehindidubbed.in",
