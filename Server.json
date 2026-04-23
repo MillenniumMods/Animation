@@ -11,6 +11,54 @@
     "home_url": "https://cinefy.lol",
     "mega_domains": ["mega.nz", "mega.io"]
   },
+  {
+    "pckg_id": "com.reeltv",
+    "base_domain": "reeltv.buzz",
+    "home_url": "https://reeltv.buzz",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+  {
+    "pckg_id": "com.studyiq",
+    "base_domain": "spidyiq.vercel.app",
+    "home_url": "https://spidyiq.vercel.app",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+  {
+    "pckg_id": "com.kgs",
+    "base_domain": "spidykgs",
+    "home_url": "https://spidykgs.vercel.app",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+ {
+    "pckg_id": "com.animerulz",
+    "base_domain": "animerulzx.net",
+    "home_url": "https://animerulzx.net",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+{
+    "pckg_id": "com.sw",
+    "base_domain": "spidyway",
+    "home_url": "https://spidyway.vercel.app",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+  {
+    "pckg_id": "com.rwa",
+    "base_domain": "rwa.vercel.app",
+    "home_url": "https://spidyuniverserwa.vercel.app/",
+    "mega_domains": ["mega.nz"]
+  },
+  {
+    "pckg_id": "com.tplay",
+    "base_domain": "tplay.live",
+    "home_url": "https://tplay.live/",
+    "mega_domains": ["mega.nz"]
+  },
+{
+    "pckg_id": "com.animixstream",
+    "base_domain": "animixstream.com",
+    "home_url": "https://animixstream.com/",
+    "mega_domains": ["mega.nz"]
+  },
  {
     "pckg_id": "com.animehindiworld.android",
     "base_domain": "animehindidubbed.in",
